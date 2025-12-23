@@ -1,8 +1,9 @@
 # MLOps-Production-Pipeline
 
 This is to show an end to end example of MLOps pipeline
+===========================================================================
 
-Project Structure generated using template.py
+PROJECT STRUCTURE using template.py
 
 USVisa/
 ├── __init__.py
@@ -52,3 +53,14 @@ USVisa/
 ├── requirements.txt
 ├── Dockerfile
 └── .dockerignore
+
+
+=====================================================================
+GIT COMMON HELP:
+
+git clone https://github.com/Arnab0014/MLOps-Production-Pipeline.git
+git status --> show the latest status of the files
+git add .   --> add all files into git stash
+git commit -m "first comment"  -> commits changes to the stash
+git push origin main    --> push your changes to github repo
+=====================================================================
